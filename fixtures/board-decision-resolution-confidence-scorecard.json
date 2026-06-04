@@ -1,0 +1,278 @@
+[
+  {
+    "id": "ai-governance-escalation",
+    "lane": "AI governance charter reset",
+    "track": "AI_GOVERNANCE",
+    "action": "ALIGN_SPONSORS",
+    "confidenceTier": "WATCHLIST",
+    "resolutionTheme": "Sponsor alignment",
+    "boardQuestion": "Is the AI governance decision actually stable, or are approvals still split across too many voices?",
+    "owner": "Chief AI Officer",
+    "audience": "Board technology committee",
+    "currentPosture": "The policy direction is sound, but sponsor alignment is still thin enough that reversal pressure remains visible.",
+    "confidenceNarrative": "Leadership agrees on the destination faster than it agrees on the decision owner.",
+    "operatingReality": "The packet is circulating with enough evidence to move, though executive sponsors still frame the decision differently.",
+    "riskHeadline": "The decision can pass review and still come back for another argument next cycle.",
+    "blockingIssue": "Final ownership of the policy packet is not explicit enough between product, risk, and security.",
+    "evidenceArtifacts": [
+      "ai-governance-agent-readiness-scorecard",
+      "governance-registry",
+      "executive-board-brief"
+    ],
+    "opportunityMoves": [
+      "name one final sponsor",
+      "collapse policy sign-offs",
+      "publish one board memo instead of parallel decks"
+    ],
+    "relatedSurfaces": [
+      "governance.kineticgain.com",
+      "registry.kineticgain.com",
+      "boardbrief.kineticgain.com"
+    ],
+    "companyTags": [
+      "OpenAI",
+      "Anthropic",
+      "Azure"
+    ],
+    "evidenceCoverageScore": 74,
+    "sponsorAlignmentScore": 61,
+    "executionClarityScore": 68,
+    "reversalRiskScore": 58,
+    "decisionAgeDays": 19,
+    "boardConfidenceScore": 64,
+    "valueAtStakeMillions": 12,
+    "headline": "AI governance has enough proof to move, but not enough sponsor unity to stay settled.",
+    "narrative": "The board story is directionally credible, though one more sponsor split could force the packet back into rework.",
+    "nextMove": "Name one final sponsor and collapse the approval language into a single board-facing decision packet."
+  },
+  {
+    "id": "procurement-answer-pack",
+    "lane": "Procurement answer-pack standard",
+    "track": "PROCUREMENT_TRUST",
+    "action": "STRENGTHEN_EVIDENCE",
+    "confidenceTier": "FRAGILE",
+    "resolutionTheme": "Evidence reuse",
+    "boardQuestion": "Do we have enough reusable trust evidence to resolve buyer diligence without reopening the same decision every cycle?",
+    "owner": "Chief Commercial Officer",
+    "audience": "Board growth committee",
+    "currentPosture": "The answer pattern is known, but evidence coverage is still too scattered to make the decision feel durable.",
+    "confidenceNarrative": "The commercial team knows the answer, but cannot yet prove it from one reusable packet.",
+    "operatingReality": "Questionnaires and diligence packets still rebuild too much trust proof by hand.",
+    "riskHeadline": "The decision will keep slipping until the proof bundle is more portable.",
+    "blockingIssue": "Trust evidence is still spread across too many repos and owner groups.",
+    "evidenceArtifacts": [
+      "security-questionnaire-answer-studio",
+      "trust-center-evidence-room",
+      "security-control-evidence-binder"
+    ],
+    "opportunityMoves": [
+      "publish one canonical answer pack",
+      "bind evidence to one owner",
+      "retire duplicate trust packet variants"
+    ],
+    "relatedSurfaces": [
+      "questionnaire.kineticgain.com",
+      "controls.kineticgain.com",
+      "procurement.kineticgain.com"
+    ],
+    "companyTags": [
+      "Vanta",
+      "Drata",
+      "Okta"
+    ],
+    "evidenceCoverageScore": 56,
+    "sponsorAlignmentScore": 72,
+    "executionClarityScore": 59,
+    "reversalRiskScore": 66,
+    "decisionAgeDays": 27,
+    "boardConfidenceScore": 57,
+    "valueAtStakeMillions": 9,
+    "headline": "The procurement answer-pack decision is still too under-evidenced to stay closed.",
+    "narrative": "Everyone wants the reuse motion, but the proof structure is not yet strong enough to prevent another re-open.",
+    "nextMove": "Publish one canonical answer pack with one evidence index and retire the duplicate trust packet variants."
+  },
+  {
+    "id": "biotech-release-path",
+    "lane": "Biotech release exception path",
+    "track": "BIOTECH_DIAGNOSTICS",
+    "action": "CONTAIN_REVERSAL",
+    "confidenceTier": "AT_RISK",
+    "resolutionTheme": "Reversal pressure",
+    "boardQuestion": "Which release decisions look approved on paper but are still vulnerable to reversal because handoffs remain too loose?",
+    "owner": "Quality systems lead",
+    "audience": "Board compliance committee",
+    "currentPosture": "The release path is documented, though the handoff chain still leaves room for late-stage reversal.",
+    "confidenceNarrative": "The team is working from the same checklist, but not yet from one irreversible decision path.",
+    "operatingReality": "Deviation, specimen, and change-control packets still depend on manual cross-owner confirmation at the end.",
+    "riskHeadline": "A late evidence gap can still unwind the decision after it looks approved.",
+    "blockingIssue": "The last two handoffs still rely on manual interpretation instead of one bound release threshold.",
+    "evidenceArtifacts": [
+      "batch-deviation-capa-ledger",
+      "specimen-chain-of-custody-console",
+      "gxp-change-control-board"
+    ],
+    "opportunityMoves": [
+      "bind the final release threshold",
+      "separate readiness from exception narrative",
+      "force one closeout owner"
+    ],
+    "relatedSurfaces": [
+      "capa.kineticgain.com",
+      "specimen.kineticgain.com",
+      "gxp.kineticgain.com"
+    ],
+    "companyTags": [
+      "LabVantage",
+      "Veeva",
+      "MasterControl"
+    ],
+    "evidenceCoverageScore": 63,
+    "sponsorAlignmentScore": 69,
+    "executionClarityScore": 52,
+    "reversalRiskScore": 79,
+    "decisionAgeDays": 34,
+    "boardConfidenceScore": 49,
+    "valueAtStakeMillions": 18,
+    "headline": "Biotech release decisions still carry too much late-stage reversal pressure.",
+    "narrative": "The operating path is visible, but one weak handoff can still flip the decision back into exception mode.",
+    "nextMove": "Bind the final release threshold to one closeout owner and remove the last manual interpretation hop."
+  },
+  {
+    "id": "fintech-control-scope",
+    "lane": "FinTech controls scope decision",
+    "track": "FINTECH_CONTROLS",
+    "action": "NARROW_SCOPE",
+    "confidenceTier": "WATCHLIST",
+    "resolutionTheme": "Scope discipline",
+    "boardQuestion": "Are we trying to resolve too much in one controls packet, reducing confidence that the decision can actually hold?",
+    "owner": "Chief Risk Officer",
+    "audience": "Board finance committee",
+    "currentPosture": "The control posture is serious, but the packet still bundles too many adjacent changes into one decision window.",
+    "confidenceNarrative": "The ambition is coherent, but the decision scope is still too wide for stable closure.",
+    "operatingReality": "KYC, merchant review, and treasury signals are tied together in ways that slow final sign-off.",
+    "riskHeadline": "Over-bundled scope is lowering decision confidence more than missing proof.",
+    "blockingIssue": "The committee is being asked to approve too many control changes at once.",
+    "evidenceArtifacts": [
+      "kyc-refresh-case-router",
+      "merchant-risk-review-console",
+      "treasury-liquidity-signal-lab"
+    ],
+    "opportunityMoves": [
+      "split the packet",
+      "sequence the control changes",
+      "approve the highest-value slice first"
+    ],
+    "relatedSurfaces": [
+      "kyc.kineticgain.com",
+      "merchant.kineticgain.com",
+      "treasury.kineticgain.com"
+    ],
+    "companyTags": [
+      "Stripe",
+      "Plaid",
+      "Adyen"
+    ],
+    "evidenceCoverageScore": 77,
+    "sponsorAlignmentScore": 75,
+    "executionClarityScore": 61,
+    "reversalRiskScore": 54,
+    "decisionAgeDays": 16,
+    "boardConfidenceScore": 66,
+    "valueAtStakeMillions": 15,
+    "headline": "The FinTech control packet is credible, but still too broad to close with full confidence.",
+    "narrative": "The board can support the direction, but the scope should narrow before confidence turns into drag.",
+    "nextMove": "Split the packet into one committee-ready slice and one follow-on motion with separate evidence."
+  },
+  {
+    "id": "platform-cost-cutover",
+    "lane": "Platform cost-takeout cutover",
+    "track": "PLATFORM_ENGINEERING",
+    "action": "RESET_DECISION_PATH",
+    "confidenceTier": "FRAGILE",
+    "resolutionTheme": "Execution clarity",
+    "boardQuestion": "Does the team actually know how the cost-takeout decision will execute, or is the approval outpacing the cutover plan?",
+    "owner": "Platform engineering lead",
+    "audience": "Board operating committee",
+    "currentPosture": "The savings thesis is accepted, though the cutover path is still too ambiguous to call the decision stable.",
+    "confidenceNarrative": "Leadership agrees on the savings target faster than the team can explain the execution path.",
+    "operatingReality": "The cost motion spans infra, identity, and vendor renewals with too many dependent milestones still floating.",
+    "riskHeadline": "Execution ambiguity is the main reason confidence is not compounding.",
+    "blockingIssue": "The cutover packet still lacks one authoritative milestone chain and rollback rule.",
+    "evidenceArtifacts": [
+      "board-cost-takeout-command-center",
+      "board-capital-reallocation-brief",
+      "identity-cost-drift-brief"
+    ],
+    "opportunityMoves": [
+      "publish one milestone chain",
+      "bind rollback thresholds",
+      "separate savings proof from migration proof"
+    ],
+    "relatedSurfaces": [
+      "takeout.kineticgain.com",
+      "reallocate.kineticgain.com",
+      "identity.kineticgain.com"
+    ],
+    "companyTags": [
+      "Azure",
+      "AWS",
+      "Okta"
+    ],
+    "evidenceCoverageScore": 70,
+    "sponsorAlignmentScore": 73,
+    "executionClarityScore": 47,
+    "reversalRiskScore": 63,
+    "decisionAgeDays": 23,
+    "boardConfidenceScore": 58,
+    "valueAtStakeMillions": 22,
+    "headline": "The cost-takeout decision is approved faster than the execution path is becoming legible.",
+    "narrative": "The board can support the savings story, but the operating path still needs one clearer cutover chain.",
+    "nextMove": "Publish one authoritative cutover chain with rollback thresholds before the next committee packet."
+  },
+  {
+    "id": "nonprofit-program-proof",
+    "lane": "Nonprofit program-proof expansion",
+    "track": "NONPROFIT_OPERATIONS",
+    "action": "ESCALATE_GAP",
+    "confidenceTier": "STABLE",
+    "resolutionTheme": "Evidence freshness",
+    "boardQuestion": "Is the program-proof expansion decision still fresh enough to defend, or is the evidence drifting before the next donor review?",
+    "owner": "Executive director",
+    "audience": "Board stewardship committee",
+    "currentPosture": "The direction is stable and the sponsor path is clean, though evidence freshness still needs routine maintenance.",
+    "confidenceNarrative": "The decision is holding because the proof packet stays tied to one narrative and one owner.",
+    "operatingReality": "Outcome proof, donor stewardship, and appeals pacing all resolve through one coherent operating packet.",
+    "riskHeadline": "This lane is holding well, but it still depends on fresh stewardship evidence to stay that way.",
+    "blockingIssue": "Evidence refresh timing could drift if stewardship updates stop landing on the same cadence.",
+    "evidenceArtifacts": [
+      "program-outcome-proof-ledger",
+      "donor-stewardship-ops-console",
+      "campaign-appeal-fatigue-monitor"
+    ],
+    "opportunityMoves": [
+      "keep quarterly refresh cadence",
+      "publish one donor-facing summary packet",
+      "escalate proof gaps before the next appeal cycle"
+    ],
+    "relatedSurfaces": [
+      "outcomes.kineticgain.com",
+      "stewardship.kineticgain.com",
+      "appeals.kineticgain.com"
+    ],
+    "companyTags": [
+      "Salesforce",
+      "HubSpot",
+      "Mailchimp"
+    ],
+    "evidenceCoverageScore": 82,
+    "sponsorAlignmentScore": 84,
+    "executionClarityScore": 78,
+    "reversalRiskScore": 32,
+    "decisionAgeDays": 11,
+    "boardConfidenceScore": 81,
+    "valueAtStakeMillions": 6,
+    "headline": "The nonprofit program-proof decision is stable and defensible, provided the evidence stays fresh.",
+    "narrative": "This is the model lane: one owner, one narrative, and one packet that keeps the decision from reopening unnecessarily.",
+    "nextMove": "Keep the quarterly refresh cadence and escalate any stewardship evidence gap before the next appeal cycle."
+  }
+]
